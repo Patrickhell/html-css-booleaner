@@ -1,0 +1,22 @@
+
+
+header{
+    background-image: url(../img/pattern.png);
+    background-color: rgb(21, 101, 180);
+    height:180px;
+    width: 1100px;
+    
+}
+
+main{
+    width: 1100px;
+}
+
+
+.sottotitolo{
+ color:rgb(21, 101, 180);   
+}
+
+.testo-colorato{
+    color: rgb(233, 233, 7);
+}
